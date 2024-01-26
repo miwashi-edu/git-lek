@@ -16,7 +16,6 @@ ______________________________________________
 #### head 4
 ##### head 5
 ###### head 6
->>>>>>> 34a323f136ed0eafe0a6699ae2f1facc6b2aaee2
 
 > Here is 
 > a blockquote
