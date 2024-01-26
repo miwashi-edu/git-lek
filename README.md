@@ -9,3 +9,7 @@
 3. Lists of
 
 `print("Story #10: Adding Inline Code")`
+
+> Here is 
+> a blockquote
+> for Story #6
